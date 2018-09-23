@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/drawer_menu_text" >
+        <menu>
+            <item
+                android:id="@+id/videos"
+                android:icon="@drawable/video"
+                android:title="@string/video"
+                android:tag="yada" />
+            <item
+                android:id="@+id/newspapers"
+                android:icon="@drawable/news"
+                android:title="@string/newspaper" />
+            <item
+                android:id="@+id/roi_eidisewn"
+                android:icon="@drawable/roi_eidisewn"
+                android:title="@string/roiEidisewn" />
+            <item
+                android:id="@+id/politiki"
+                android:icon="@drawable/politiki"
+                android:title="@string/politiki" />
+            <item
+                android:id="@+id/arthra"
+                android:icon="@drawable/arthra"
+                android:title="@string/arthra" />
+            <item
+                android:id="@+id/vouli"
+                android:icon="@drawable/vouli"
+                android:title="@string/vouli" />
+            <item
+                android:id="@+id/eurovouli"
+                android:icon="@drawable/eurovouli"
+                android:title="@string/eurovouli" />
+            <item
+                android:id="@+id/ekloges"
+                android:icon="@drawable/ekloges"
+                android:title="@string/ekloges" />
+            <item
+                android:id="@+id/topiki_dioikisi"
+                android:icon="@drawable/topiki_dioikisi"
+                android:title="@string/topikiDioikisi" />
+            <item
+                android:id="@+id/oikonomia"
+                android:icon="@drawable/oikonomia"
+                android:title="@string/oikonomia" />
+            <item
+                android:id="@+id/ygeia"
+                android:icon="@drawable/ygeia"
+                android:title="@string/ygeia" />
+            <item
+                android:id="@+id/koinwniki_asfalisi"
+                android:icon="@drawable/koinwniki_asfalisi"
+                android:title="@string/koinwnikiAsfalisi" />
+            <item
+                android:id="@+id/autoapasholoumenoi"
+                android:icon="@drawable/autoapasholoumenoi"
+                android:title="@string/autoapasholoumenoi" />
+            <item
+                android:id="@+id/agrotes"
+                android:icon="@drawable/agrotes"
+                android:title="@string/agrotes" />
+            <item
+                android:id="@+id/sintaxiouhoi"
+                android:icon="@drawable/sintaxiouhoi"
+                android:title="@string/sintaxiouhoi" />
+            <item
+                android:id="@+id/neolaia_paideia"
+                android:icon="@drawable/neolaia_paideia"
+                android:title="@string/neolaia_paideia" />
+            <item
+                android:id="@+id/kosmos"
+                android:icon="@drawable/kosmos"
+                android:title="@string/kosmos" />
+            <item
+                android:id="@+id/athlitismos"
+                android:icon="@drawable/athlitismos"
+                android:title="@string/athlitismos" />
+            <item
+                android:id="@+id/politismos"
+                android:icon="@drawable/politismos"
+                android:title="@string/politismos" />
+            <item
+                android:id="@+id/kinimatografos"
+                android:icon="@drawable/kinimatografos"
+                android:title="@string/kinimatografos" />
+            <item
+                android:id="@+id/theatro"
+                android:icon="@drawable/theatro"
+                android:title="@string/theatro" />
+            <item
+                android:id="@+id/mousiki"
+                android:icon="@drawable/mousiki"
+                android:title="@string/mousiki" />
+            <item
+                android:id="@+id/eikastika"
+                android:icon="@drawable/eikastika"
+                android:title="@string/eikastika" />
+            <item
+                android:id="@+id/epistimi"
+                android:icon="@drawable/epistimi"
+                android:title="@string/epistimi" />
+            <item
+                android:id="@+id/koinwnia"
+                android:icon="@drawable/koinwnia"
+                android:title="@string/koinwnia" />
+            <item
+                android:id="@+id/mme"
+                android:icon="@drawable/mme"
+                android:title="@string/mme" />
+            <item
+                android:id="@+id/apopseis_sholia"
+                android:icon="@drawable/apopseis_sholia"
+                android:title="@string/apopseisSholia" />
+        </menu>
+    </item>
+
+</menu>
